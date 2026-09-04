@@ -172,15 +172,12 @@ similarity = 1 - distance
 
 ### Semantic Search Test
 
-> 📷 **Screenshot Placeholder**
->
-> Semantic Search 쿼리 및 검색 결과 캡처 추가 예정
+> Semantic Search 쿼리 및 검색 결과
 
-<!--
-추후 이미지 추가 예시:
-
-![Semantic Search Test](docs/images/semantic-search-test.png)
--->
+![Semantic Search Test](docs/images/스크린샷%202026-09-04%20144301.png)
+![Semantic Search Test](docs/images/스크린샷%202026-09-04%20144326.png)
+![Semantic Search Test](docs/images/스크린샷%202026-09-04%20144335.png)
+![Semantic Search Test](docs/images/스크린샷%202026-09-04%20144342.png)
 
 ---
 
@@ -209,9 +206,7 @@ Semantic Search
 
 ### Keyword / Semantic Search Comparison
 
-> 📷 **Screenshot Placeholder**
->
-> Keyword Search와 Semantic Search 비교 화면 추가 예정
+![Keyword Search Test](docs/images/스크린샷%202026-09-04%20152318.png)
 
 ---
 
@@ -288,9 +283,10 @@ LIMIT %s;
 
 ### Metadata-filtered Search Test
 
-> 📷 **Screenshot Placeholder**
->
-> 가격 및 카테고리 조건을 적용한 검색 결과 캡처 추가 예정
+> 가격 및 카테고리 조건을 적용한 검색 결과
+
+![Metadata-filtered Search Test](docs/images/스크린샷%202026-09-04%20152627.png)
+![Metadata-filtered Search Test](docs/images/스크린샷%202026-09-04%20152712.png)
 
 ---
 
